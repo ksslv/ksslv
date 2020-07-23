@@ -1,4 +1,4 @@
-## Hi, I’m Ksenia
+## Hi, I’m Ksenia  
 ### I’m a software engineer in San Francisco Bay Area.
 
 What I’m good at
