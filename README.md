@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I’m Ksenia
+### I’m a software engineer in San Francisco Bay Area.
 
-<!--
-**ksslv/ksslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I’m good at
+---
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐍  Python, Django  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨  JS, React, GraphQL
 
-Here are some ideas to get you started:
+What I’m up to right now
+---
+* Developing a new appreciation for [chess](https://www.chess.com)
+* Learning algorithms and data structures
+* Slowly working through [CS 253](https://web.stanford.edu/class/cs253/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get in touch
+---
+* [Email]()
+* [Dev.to]()
