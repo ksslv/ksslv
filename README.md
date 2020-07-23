@@ -1,10 +1,10 @@
 ## Hi, I’m Ksenia  
-I’m a software engineer in San Francisco Bay Area.
+I’m a software engineer in San Francisco Bay Area
 
 What I’m good at
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;🐍  Python, Django  
-&nbsp;&nbsp;&nbsp;&nbsp;✨  JS, React, GraphQL
+&nbsp;&nbsp;&nbsp;&nbsp;🐍&nbsp;&nbsp;Python, Django  
+&nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;&nbsp;JS, React, GraphQL
 
 What I’m up to right now
 ---
