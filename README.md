@@ -10,5 +10,5 @@ What I’m up to right now
 ---
 * Developing a new appreciation for [chess](https://www.chess.com)
 * Learning algorithms and data structures
-* Learning GraphQL
+* Learning Typescript
 
