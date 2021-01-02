@@ -4,11 +4,11 @@ I’m a software engineer in San Francisco Bay Area
 What I’m currently working with
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;🐍&nbsp;&nbsp;Python, Django  
-&nbsp;&nbsp;&nbsp;&nbsp;⚛️&nbsp;&nbsp;JavaScript, React
+&nbsp;&nbsp;&nbsp;&nbsp;⚛️&nbsp;&nbsp;JavaScript/Typescript, React
 
 What I’m up to right now
 ---
-* Developing a new appreciation for [chess](https://www.chess.com)
+* Reading [99 Bottles of OOP](https://sandimetz.com/99bottles)
 * Learning algorithms and data structures
 * Learning Typescript
 
