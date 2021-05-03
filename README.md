@@ -9,6 +9,5 @@ What I’m currently working with
 What I’m up to right now
 ---
 * Reading [99 Bottles of OOP](https://sandimetz.com/99bottles)
-* Learning algorithms and data structures
 * Learning Typescript
 
